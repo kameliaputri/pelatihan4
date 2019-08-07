@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Kamelia XI RPL 1</title>
+	<link rel="stylesheet" href="style.css">
+</head>
+<body>
+	<img src="kamel.jpeg" width="70" height="100">
+	<h1 style="color : blue;">Andrew darwis</h1>
+	<h3 style="color : purple;">CEO kaskus indonesia </h3>
+	<h5> <em>www.kaskus.co.id</em></h5>
+	<p>
+		<strong>Andrew darwis</strong> (lahir 20 juli 1979;umur 36 tahun) adalah pendiri komunitas daring terbesar di indonesia,kaskus.
+		Andrew sekarang menjabat sebagai <u> chief technology officer (CTO) PT.Darta media Indonesia(kaskus)</u>
+		sekaligus pemilik (owner) kaskus network lewat PT Darta media indonesia.
+		Andrew mendirikan kaskus pada 6 november 1999.
+		bermula dari pengalamannya saat menimba ilmu di universitas seattle university Amerika,program study multimedia dan web design
+		art institute of seattle computer science pada tahun  1999,pria yang dibilang menjadi yang terbesar di indonesia.
+		saat itu saya ditugaskan oleh dosen untuk membuat program dari free software,dari situlah mulai muncul ide membuat website dengan nama kaskus.
+	</p>
+	<p class="p2">
+		<strong>Andrew darwis</strong> (lahir 20 juli 1979;umur 36 tahun) adalah pendiri komunitas daring terbesar di indonesia,kaskus.
+		Andrew sekarang menjabat sebagai <u> chief technology officer (CTO) PT.Darta media Indonesia(kaskus)</u>
+		sekaligus pemilik (owner) kaskus network lewat PT Darta media indonesia.
+		Andrew mendirikan kaskus pada 6 november 1999.
+		bermula dari pengalamannya saat menimba ilmu di universitas seattle university Amerika,program study multimedia dan web design
+		art institute of seattle computer science pada tahun  1999,pria yang dibilang menjadi yang terbesar di indonesia.
+		saat itu saya ditugaskan oleh dosen untuk membuat program dari free software,dari situlah mulai muncul ide membuat website dengan nama kaskus.
+	</p>
+	<p id="p3">
+		<strong>Andrew darwis</strong> (lahir 20 juli 1979;umur 36 tahun) adalah pendiri komunitas daring terbesar di indonesia,kaskus.
+		Andrew sekarang menjabat sebagai <u> chief technology officer (CTO) PT.Darta media Indonesia(kaskus)</u>
+		sekaligus pemilik (owner) kaskus network lewat PT Darta media indonesia.
+		Andrew mendirikan kaskus pada 6 november 1999.
+		bermula dari pengalamannya saat menimba ilmu di universitas seattle university Amerika,program study multimedia dan web design
+		art institute of seattle computer science pada tahun  1999,pria yang dibilang menjadi yang terbesar di indonesia.
+		saat itu saya ditugaskan oleh dosen untuk membuat program dari free software,dari situlah mulai muncul ide membuat website dengan nama kaskus.
+	</p>
+	<h1>Biografi</h1>
+	<ol>
+		<li>Nama lengkap         : Andrew darwis </li>
+		<li>Tempat tanggal lahir : Jakarta,20 juli 1979</li>
+		<li>pendidikan terakhir  : The art institute of seattle,Gandhi school ancol </li>
+		<li>status               : alone </li>
+	</ol>
+</body>
+</html>
