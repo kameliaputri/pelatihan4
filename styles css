@@ -1,0 +1,21 @@
+h1 {
+	color :red;
+}
+p  {
+	color : blue; 
+	font family :"times new roman";
+	font-weight: 45px;
+	font-size:20px;
+}
+.p2{
+	color:black;
+}
+#p3{
+	color:brown;
+}
+li {
+	color : green;
+}
+body {
+	background-color :pink;
+}
